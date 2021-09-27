@@ -1,11 +1,8 @@
 from,to,weight
 Chandler,Phoebe,1
 Chandler,Monica,3
-Monica,Chandler,3
 Chandler,Rachel,1
 Janice,Chandler,2
 Rachel,Ross,3
-Ross,Rachel,3
 Janice,Ross,1
 Joey,Rachel,2
-Rachel,Joey,2
