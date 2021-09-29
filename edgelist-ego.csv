@@ -1,0 +1,9 @@
+from,to,weight,relation
+E,A,1,1
+E,A,1,2
+E,B,1,1
+E,B,1,1
+E,C,1,2
+E,D,3,3
+A,B,1,1
+A,B,1,1
